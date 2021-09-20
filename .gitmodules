@@ -1,0 +1,24 @@
+[submodule "plugins/start/fzf"]
+	path = plugins/start/fzf
+	url = git@github.com:junegunn/fzf.git
+[submodule "plugins/start/fzf.vim"]
+	path = plugins/start/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "plugins/start/vim-airline"]
+	path = plugins/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "plugins/start/vim-airline-themes"]
+	path = plugins/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "plugins/start/vim-fugitive"]
+	path = plugins/start/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule "themes/opt/vim-colors-solarized"]
+	path = themes/opt/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "themes/opt/papercolor-theme"]
+	path = themes/opt/papercolor-theme
+	url = git@github.com:NLKNguyen/papercolor-theme.git
+[submodule "themes/opt/nord-vim"]
+	path = themes/opt/nord-vim
+	url = git@github.com:arcticicestudio/nord-vim.git
