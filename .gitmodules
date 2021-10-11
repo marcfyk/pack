@@ -22,3 +22,6 @@
 [submodule "themes/opt/nord-vim"]
 	path = themes/opt/nord-vim
 	url = git@github.com:arcticicestudio/nord-vim.git
+[submodule "themes/opt/ayu-vim"]
+	path = themes/opt/ayu-vim
+	url = git@github.com:ayu-theme/ayu-vim.git
