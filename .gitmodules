@@ -1,8 +1,8 @@
 [submodule "plugins/start/fzf"]
-	path = plugins/start/fzf
+	path = plugins/opt/fzf
 	url = git@github.com:junegunn/fzf.git
 [submodule "plugins/start/fzf.vim"]
-	path = plugins/start/fzf.vim
+	path = plugins/opt/fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
 [submodule "plugins/start/vim-airline"]
 	path = plugins/start/vim-airline
