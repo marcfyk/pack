@@ -28,3 +28,6 @@
 [submodule "themes/opt/gruvbox"]
 	path = themes/opt/gruvbox
 	url = git@github.com:morhetz/gruvbox.git
+[submodule "plugins/start/vim-elixir"]
+	path = plugins/start/vim-elixir
+	url = git@github.com:elixir-editors/vim-elixir.git
