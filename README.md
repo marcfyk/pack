@@ -2,7 +2,7 @@
 
 Packages to be loaded by vim 8 package feature.
 
-1. Clone this repository in `.vim` with directory name `pack`. The `.vim` directory should have a structure `.vim/pack/*/{repository-files}`
+1. Clone this repository in `.vim` with directory name `pack`. The `.vim` directory should have a structure `.vim/pack/*/{start | opt}/{repository-files}`
 2. Run `git submodule init`
 3. Run `git submodule update`
 
