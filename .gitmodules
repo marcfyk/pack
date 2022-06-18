@@ -31,3 +31,6 @@
 [submodule "plugins/start/vim-go"]
 	path = plugins/start/vim-go
 	url = git@github.com:fatih/vim-go.git
+[submodule "plugins/start/fzf"]
+	path = plugins/start/fzf
+	url = https://github.com/junegunn/fzf.git
