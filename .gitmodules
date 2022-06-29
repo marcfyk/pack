@@ -34,3 +34,6 @@
 [submodule "plugins/start/fzf"]
 	path = plugins/start/fzf
 	url = https://github.com/junegunn/fzf.git
+[submodule "plugins/start/Ionide-vim"]
+	path = plugins/start/Ionide-vim
+	url = https://github.com/ionide/Ionide-vim.git
